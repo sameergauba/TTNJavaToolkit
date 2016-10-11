@@ -1,0 +1,5 @@
+projectKey=com.ttnd.toolkit:toolkit-parent
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/com.ttnd.toolkit:toolkit-parent
+ceTaskId=AVU0gLUal1991x094_AP
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVU0gLUal1991x094_AP
